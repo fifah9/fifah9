@@ -1,14 +1,15 @@
 <h1 align="center">Hi there, I'm Latifah Nur Hida 👋</h1>
 
 <p align="center">
-  🌸 Passionate Learner | 💻 Web Development Enthusiast | 🎨 UI/UX Lover
+  🌸 Curious Learner | 💻 Exploring Web Development | 🎨 Beginner in UI/UX
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-Frontend%20Development-pink?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LOVES-HTML%20%7C%20CSS%20%7C%20JS-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-Learning%20%26%20Exploration-pink?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEARNING-Python%20%7C%20PHP%20%7C%20Java%20%7C%20C-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TRYING-HTML%20%7C%20CSS%20%7C%20JS-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TOOLS-VSCode%20%7C%20Figma%20%7C%20Git-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HOBBY-Design%20%26%20Coding-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EXPERIMENT-Web%20with%20AI-green?style=for-the-badge" />
 </p>
 
 ---
@@ -38,5 +39,5 @@
 
 ## 💡 Fun Fact
 <p align="center">
-  I believe that learning and working are forms of worship ✨
+  Learning step by step, and enjoying the journey ✨
 </p>
