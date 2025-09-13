@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Latifah Nur Hida 👋</h1>
 
 <p align="center">
-  🌸 Curious Learner | 💻 Exploring Web Development | 🎨 Beginner in UI/UX
+  🌸 Curious Learner | 💻 Exploring Web Development | 🎨 Beginner in UI/UX <br/>
+  🎓 Mahasiswa Teknologi Informasi Angkatan 2021
 </p>
 
 <p align="center">
